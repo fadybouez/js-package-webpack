@@ -1,0 +1,28 @@
+body{
+    margin: 0; 
+    padding: 0;
+}
+h2{
+    background-color: rgb(23, 245, 160);
+    color: rgb(13, 30, 31);
+    text-align: center;
+    padding: 15px;
+    font-family:'Times New Roman', Times, serif;
+
+
+}
+h1{
+  
+    background-color: aqua;
+    color: rgb(23, 92, 94);
+    text-align: center;
+    padding: 15px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+img{
+    width: 600px;
+    height: 250px;
+    display: block;
+}
